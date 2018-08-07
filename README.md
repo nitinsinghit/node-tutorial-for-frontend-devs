@@ -24,3 +24,5 @@ Christopher Buecheler is a web developer who runs [CloseBrace](https://closebrac
 * README.md - this file
 * app.js - central app file for tutorial project
 * package.json - package info for tutorial project
+
+##some more changes
